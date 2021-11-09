@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832461607382",
+    "project_id": "notes-app-fragments2-107ca",
+    "storage_bucket": "notes-app-fragments2-107ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832461607382:android:612ebe4730e8c9c34bd477",
+        "android_client_info": {
+          "package_name": "com.example.notesapp_fragments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832461607382-o5senrcd1667ik8f51j82g389tvisgrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWlUKDowWkZ3TQBq9SxwlywFaoAIos90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832461607382-o5senrcd1667ik8f51j82g389tvisgrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
