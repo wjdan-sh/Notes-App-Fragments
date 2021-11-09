@@ -56,7 +56,7 @@ class MainFragment : Fragment() {
         RCadapter = RVAdapter(this)
         RC.adapter = RCadapter
 
-       // RC.layoutManager = GridLayoutManager(requireContext(),2)
+
         RC.layoutManager = LinearLayoutManager(requireContext())
 
         btn.setOnClickListener {
